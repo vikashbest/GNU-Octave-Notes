@@ -5,6 +5,9 @@ Simple arithmetic operations like:-
 >>	4+5
 Output:- ans =  9
 
+>> 8/2
+Output:- ans = 4
+
 >> 4-9
 ans = -5
 
